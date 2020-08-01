@@ -1,0 +1,17 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "telegram nodejs chat bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Rohit Saini",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-images": "^2.1.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "openweathermap-node": "^1.1.2"
+  }
+}
