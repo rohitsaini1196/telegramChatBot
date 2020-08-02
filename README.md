@@ -3,6 +3,6 @@
 
 
 
-go to directory and run `npm install node-telegram-bot-api`
+go to directory and run `npm install`
 
 ![](https://github.com/rohitsaini1196/telegramChatBot/blob/master/telegramChatBot/telegram.png)

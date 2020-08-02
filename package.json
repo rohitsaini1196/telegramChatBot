@@ -11,6 +11,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "google-images": "^2.1.0",
+    "natural": "^2.1.5",
     "node-telegram-bot-api": "^0.30.0",
     "openweathermap-node": "^1.1.2"
   }
